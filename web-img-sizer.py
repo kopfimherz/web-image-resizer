@@ -1,10 +1,10 @@
 from PIL import Image
 import os
 
-input_dir = "_input"  # Ordner mit Originalbildern
-output_dir = "_output"  # Ordner für konvertierte Bilder
+input_dir = "input"  # Ordner mit Originalbildern
+output_dir = "output"  # Ordner für konvertierte Bilder
 
-sizes = {"x1": 800, "x3": 1024}  # Zielbreiten
+sizes = {"sm": 640, "md": 768, "lg": 1024, "xl": 1280, "2xl": 1536}  # Zielbreiten
 formats = ["jpeg", "webp"]  # Zielbildformate
 
 os.makedirs(output_dir, exist_ok=True)  # Erstelle den Ausgabeordner, falls nötig

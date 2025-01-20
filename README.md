@@ -14,6 +14,8 @@ The sizes are taken from the standard media queries from [Tailwind CSS](https://
 | xl   | 1280px |
 | 2xl  | 1536px |
 
+## Formates
+All images will be saved as JPEG ans WEBP file.
 ## Workflow
 1. put the origin images into /input
 2. run the Python code
