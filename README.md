@@ -1,4 +1,4 @@
-# web-image-resizer
+# Web Image Resizer
 ## Discription
 The Web Image Resizer is a small Python project to simplify and speed up the resizing process of images used for websites.
 ## Background
