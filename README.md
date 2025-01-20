@@ -2,7 +2,7 @@
 ## Discription
 The Web Image Resizer is a small Python project to simplify and speed up the resizing process of images used for websites.
 ## Background
-Python was installed with homebrew and uses Pillow 7.2.0 for image processing.
+Python was installed with homebrew and uses Pillow for image processing.
 ## Sizes
 The sizes are taken from the standard media queries from [Tailwind CSS](https://tailwindcss.com/docs/responsive-design):
 
